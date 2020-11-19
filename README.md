@@ -14,5 +14,5 @@ arduino controlled desk RGB led strip
   //color4
   
 # futuri sviluppi
--IR sync multiple strip
--fix button program selection (delay)
+- IR sync multiple strip
+- fix button program selection (delay)
