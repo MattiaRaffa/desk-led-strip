@@ -6,12 +6,12 @@ arduino controlled desk RGB led strip
 ![](./PCBpreview.png)
 
 # program
-//long push change program
-  //loop color
-  //color1
-  //color2
-  //color3
-  //color4
+long push change program
+  - loop color
+  - color1
+  - color2
+  - color3
+  - color4
   
 # futuri sviluppi
 - IR sync multiple strip
