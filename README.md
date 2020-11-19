@@ -1,9 +1,8 @@
 # desk-led-strip
 arduino controlled desk RGB led strip
+![](./maker preview.jpg)
 
-![alt text](maker preview.jpg)
-
-![alt text](PCB preview.png)
+![](./PCB preview.png)
 
 # program
 //long push change program
