@@ -7,7 +7,7 @@ arduino controlled desk RGB led strip
 
 # program
 long push change program
-  - loop color
+  - loop color fast
   - color1
   - color2
   - color3
@@ -16,3 +16,5 @@ long push change program
 # futuri sviluppi
 - IR sync multiple strip
 - fix button program selection (delay)
+- white color
+- loop slow
