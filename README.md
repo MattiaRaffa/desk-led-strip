@@ -6,7 +6,7 @@ ATmega328 RGB led strip control
 
 ![](./Preview.png)
 
-![](./preview fritzing.png)
+![](./previewfritzing.png)
 
 # program
 long push change program
