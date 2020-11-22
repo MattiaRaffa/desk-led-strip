@@ -1,6 +1,6 @@
 # desk-led-strip
-arduino controlled desk RGB led strip
-ATmega328 RGB led strip control
+Expensive and big Arduino boards and breadbords circuits drive me to design an ATmega328 PCB to control a 5m RGB led strip.
+The primary color used is the violet according to the maker space identity.
 
 ![](./makerpreview.jpg)
 
