@@ -1,5 +1,6 @@
 # desk-led-strip
 arduino controlled desk RGB led strip
+ATmega328 RGB led strip control
 
 ![](./makerpreview.jpg)
 
